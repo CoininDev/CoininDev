@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi! Eu sou Gabriel DB, bem vindo/vinda!
 
-<!--
-**CoininDev/CoininDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/CoininDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoininDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoininDev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Agarvid, tech focused learning videos platform
+- 🌱 I’m currently learning Back-end with Python/Django
+- 📫 How to reach me: 
+    linkedin: https://www.linkedin.com/in/gabriel-dias-batista-445599242/;
+    email: gabr.batz@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I study coding and programming since my 10 years :)
