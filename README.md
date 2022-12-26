@@ -7,7 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently working on Agarvid, tech focused learning videos platform
+- 🔭 I’m currently working on Learning new skills
 - 🌱 I’m currently learning Back-end with Python/Django
 - 📫 How to reach me: 
     linkedin: https://www.linkedin.com/in/gabriel-dias-batista-445599242/;
