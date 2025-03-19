@@ -1,11 +1,11 @@
 
-<h2 align="left">E aí 👋!</h2>
+<h2 align="left">Hey 👋!</h2>
 
-- 🖥️ Programação;
-- 🚀 Atualmente estou cursando ADS(Análise e Desenvolvimento de Sistemas) na FATEC;
-- 😄 Pronomes: Ele/dele;
-- ⚡ Fato sobre mim: Estudo programação desde o 10 anos :);
-- 🌻 TEA nível 1 de suporte;
+- 🖥️ Coding;
+- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) at FATEC;
+- 😄 Pronomes: He/him;
+- ⚡ Fun fact: I study programming since I was 10 :);
+- 🌻 Autism spectrum disorder;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coinindev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
