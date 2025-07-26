@@ -1,11 +1,36 @@
 
 <h2 align="left">Hey 👋!</h2>
 
-- 🖥️ Coding;
-- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) at FATEC;
-- 😄 Pronomes: He/him;
-- ⚡ Fun fact: I study programming since I was 10 :);
-- 🌻 Autism spectrum disorder;
+- 🖥️ I build things — games, systems, tools;;
+- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) @ FATEC;
+- 😄 Pronouns: He/him;
+- ⚡ I've been coding since I was 10 :) ;
+- 🌻 On the autism spectrum;
+
+
+## Featured Projects
+
+Here are some of the things I’m proud of:
+
+### [SafeListn](https://github.com/CoininDev/SafeListn)
+A real-time audio compressor built in Rust using JACK. 
+It tames loud scenes in movies so you can watch at night without hurting your ears.  
+
+
+### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
+An underwater roguelike prototype made on its own engine. 
+Rust, ECS, graphics, modular architecture, procedural maps, input system. 
+
+### [Teste de Digitação](https://github.com/CoininDev/teste-de-digitacao)
+(Translates to Typing Test)
+A React-based typing speed test. 
+Cute UI, scalable internal system, and (soon) dynamic text.  
+
+
+### [Calculadore](https://github.com/CoininDev/calculadore)
+A command-line calculator in Rust that uses internally Reverse Polish Notation. 
+Minimalist and a bit nerdy.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coinindev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
