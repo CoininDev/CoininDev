@@ -21,15 +21,8 @@ It tames loud scenes in movies so you can watch at night without hurting your ea
 An underwater roguelike prototype made on its own engine. 
 Rust, ECS, graphics, modular architecture, procedural maps, input system. 
 
-### [Teste de Digitação](https://github.com/CoininDev/teste-de-digitacao)
-(Translates to Typing Test)
-A React-based typing speed test. 
-Cute UI, scalable internal system, and (soon) dynamic text.  
-
-
-### [Calculadore](https://github.com/CoininDev/calculadore)
-A command-line calculator in Rust that uses internally Reverse Polish Notation. 
-Minimalist and a bit nerdy.
+### [Simple Math](https://github.com/CoininDev/simple_math)
+A command-line interpreter for mathematical language, made in rust using Pratt Parser.
 
 ### [AnOriginalNameAPI](https://github.com/CoininDev/AnOriginalName0)
 A Go (Gin) API that calculates text originality scores, leveraging semantic embeddings (Python + sentence-transformers), PostgreSQL with pgvector for vector search, and ANN for optimization.
