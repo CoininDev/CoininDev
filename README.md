@@ -11,18 +11,17 @@
 ## Featured Projects
 
 Here are some of the things I’m proud of:
+### [SMX](https://github.com/CoininDev/smx)
+An interpreted functional programming language based in lambda calculus and typing flow.
+It already is feature-rich and usable, but not yet totally optimized.
+
+### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
+A game engine made for my custom game mechanics.
+Rust, ECS, graphics, modular architecture, procedural maps, input system. 
 
 ### [SafeListn](https://github.com/CoininDev/SafeListn)
 A real-time audio compressor built in Rust using JACK. 
 It tames loud scenes in movies so you can watch at night without hurting your ears.  
-
-
-### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
-An underwater roguelike prototype made on its own engine. 
-Rust, ECS, graphics, modular architecture, procedural maps, input system. 
-
-### [Simple Math](https://github.com/CoininDev/simple_math)
-A command-line interpreter for mathematical language, made in rust using Pratt Parser.
 
 ### [AnOriginalNameAPI](https://github.com/CoininDev/AnOriginalName0)
 A Go (Gin) API that calculates text originality scores, leveraging semantic embeddings (Python + sentence-transformers), PostgreSQL with pgvector for vector search, and ANN for optimization.
