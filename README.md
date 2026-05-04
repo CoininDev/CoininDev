@@ -1,42 +1,18 @@
 
 <h2 align="left">Hey 👋!</h2>
 
-- 🖥️ I build things — games, systems, tools;;
-- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) @ FATEC;
+- 🖥️ Focused on Low Level and Complex Systems.
+- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) at FATEC;
 - 😄 Pronouns: He/him;
 - ⚡ I've been coding since I was 10 :) ;
-- 🌻 On the autism spectrum;
 
 
-## Featured Projects
-
-Here are some of the things I’m proud of:
-### [SMX](https://github.com/CoininDev/smx)
-An interpreted functional programming language based in lambda calculus and typing flow.
-It already is feature-rich and usable, but not yet totally optimized.
-
-### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
-A game engine made for my custom game mechanics.
-Rust, ECS, graphics, modular architecture, procedural maps, input system. 
-
-### [SafeListn](https://github.com/CoininDev/SafeListn)
-A real-time audio compressor built in Rust using JACK. 
-It tames loud scenes in movies so you can watch at night without hurting your ears.  
-
-### [AnOriginalNameAPI](https://github.com/CoininDev/AnOriginalName0)
-A Go (Gin) API that calculates text originality scores, leveraging semantic embeddings (Python + sentence-transformers), PostgreSQL with pgvector for vector search, and ANN for optimization.
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coinindev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coinindev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/2N5GDoyNGOoAAAAC/dancing-emoji.gif"  />
+<br>
+<br>
+<br>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -58,6 +34,34 @@ A Go (Gin) API that calculates text originality scores, leveraging semantic embe
 
 ###
 
+
+
+## Featured Projects
+
+Here are some of the things I’m proud of:
+### [SMX](https://github.com/CoininDev/smx)
+An interpreted functional programming language based in lambda calculus and typing flow.
+It already is feature-rich and usable, but not yet totally optimized.
+
+### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
+A game engine made for my custom game mechanics.
+Rust, ECS, graphics, modular architecture, procedural maps, input system. 
+
+### [SafeListn](https://github.com/CoininDev/SafeListn)
+A real-time audio compressor built in Rust using JACK. 
+It tames loud scenes in movies so you can watch at night without hurting your ears.  
+
+### [AnOriginalNameAPI](https://github.com/CoininDev/AnOriginalName0)
+A Go (Gin) API that calculates text originality scores, leveraging semantic embeddings (Python + sentence-transformers), PostgreSQL with pgvector for vector search, and ANN for optimization.
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/coinindev/coinindev/output/snake.svg" alt="Snake animation" />
+
+---
+
 <div align="left">
   <a href="https://www.instagram.com/gabe._.way/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
@@ -75,11 +79,4 @@ A Go (Gin) API that calculates text originality scores, leveraging semantic embe
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/coinindev/coinindev/output/snake.svg" alt="Snake animation" />
-
-###
+🌻
