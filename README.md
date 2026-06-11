@@ -1,10 +1,8 @@
+# Gabriel DB — Rust & Systems Developer
 
-<h2 align="left">Hey 👋!</h2>
+I build interpreters, game engines, real-time tools and experimental software.
 
-- 🖥️ Focused on Low Level and Complex Systems.
-- 🚀 Currently studying ADS(Análise e Desenvolvimento de Sistemas) at FATEC;
-- 😄 Pronouns: He/him;
-- ⚡ I've been coding since I was 10 :) ;
+Currently studying ADS at FATEC, with a strong focus on Rust, low-level programming, language design, ECS architectures and Linux-based development. I started programming at 10 and now focus on building original systems.
 
 
 
@@ -15,19 +13,15 @@
 
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
@@ -36,24 +30,23 @@
 
 
 
-## Featured Projects
+## Selected Systems Work
+### [SMX](https://github.com/CoininDev/smx) - Functional language interpreter in Rust
+A functional programming language and interpreter built in Rust, featuring first-class environments, lambda syntax, currying, eager evaluation, lazy/frozen expressions, pattern values and operator-based flow control.
+Why it matters: demonstrates language design, parser/interpreter architecture, runtime semantics and functional programming concepts.
 
-Here are some of the things I’m proud of:
-### [SMX](https://github.com/CoininDev/smx)
-An interpreted functional programming language based in lambda calculus and typing flow.
-It already is feature-rich and usable, but not yet totally optimized.
+### [Aquatunnel](https://github.com/CoininDev/Aquatunnel) - Modular 2D game engine architecture in Rust
+A 2D roguelite survival game built with Rust, Macroquad, Legion ECS and Rapier2D. The project explores modular game architecture, ECS-driven systems, procedural maps, chunk loading, rendering pipelines and input handling.
+Why it matters: demonstrates game systems architecture, ECS modeling, Rust project organization and performance-oriented design.
 
-### [Aquatunnel](https://github.com/CoininDev/Aquatunnel)
-A game engine made for my custom game mechanics.
-Rust, ECS, graphics, modular architecture, procedural maps, input system. 
+### [SafeListn](https://github.com/CoininDev/SafeListn) - Real-time audio compressor for Linux
+A Rust-based real-time audio compressor using JACK. It reroutes system audio, applies stereo compression frame-by-frame and restores audio routing on exit.
+Why it matters: demonstrates real-time processing, Linux audio APIs, systems programming and user-facing tooling.
 
-### [SafeListn](https://github.com/CoininDev/SafeListn)
-A real-time audio compressor built in Rust using JACK. 
-It tames loud scenes in movies so you can watch at night without hurting your ears.  
+### [Pnyx](https://github.com/CoininDev/pnyx) — Experimental federated governance architecture
 
-### [AnOriginalNameAPI](https://github.com/CoininDev/AnOriginalName0)
-A Go (Gin) API that calculates text originality scores, leveraging semantic embeddings (Python + sentence-transformers), PostgreSQL with pgvector for vector search, and ANN for optimization.
-
+A Rust-based experimental blockchain/governance system exploring scoped Merkle Patricia Tries, commune-level state partitioning, BFT-style consensus concepts and embedded SMX smart contracts.
+Why it matters: demonstrates distributed-systems thinking, state design, cryptographic data structures and architectural modeling.
 ---
 
 <br clear="both">
@@ -65,9 +58,6 @@ A Go (Gin) API that calculates text originality scores, leveraging semantic embe
 <div align="left">
   <a href="https://www.instagram.com/gabe._.way/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/bacalhau_sociocultural" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitch logo"  />
   </a>
   <a href="https://discord.com/users/782381495423598593" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
