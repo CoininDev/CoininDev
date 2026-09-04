@@ -31,26 +31,17 @@ Currently studying ADS at FATEC, with a strong focus on Rust, low-level programm
 
 
 ## Selected Systems Work
+
+
 ### [SMX](https://github.com/CoininDev/smx) - Functional language interpreter in Rust
 A functional programming language and interpreter built in Rust, featuring first-class environments, lambda syntax, currying, eager evaluation, lazy/frozen expressions, pattern values and operator-based flow control.
 
 **Why it matters:** demonstrates language design, parser/interpreter architecture, runtime semantics and functional programming concepts.
 
-### [Aquatunnel](https://github.com/CoininDev/Aquatunnel) - Modular 2D game engine architecture in Rust
-A 2D roguelite survival game built with Rust, Macroquad, Legion ECS and Rapier2D. The project explores modular game architecture, ECS-driven systems, procedural maps, chunk loading, rendering pipelines and input handling.
-
-**Why it matters:**  demonstrates game systems architecture, ECS modeling, Rust project organization and performance-oriented design.
-
 ### [SafeListn](https://github.com/CoininDev/SafeListn) - Real-time audio compressor for Linux
 A Rust-based real-time audio compressor using JACK. It reroutes system audio, applies stereo compression frame-by-frame and restores audio routing on exit.
 
 **Why it matters:** demonstrates real-time processing, Linux audio APIs, systems programming and user-facing tooling.
-
-### [Pnyx](https://github.com/CoininDev/pnyx) - Experimental federated governance architecture
-
-A Rust-based experimental blockchain/governance system exploring scoped Merkle Patricia Tries, scoped state partitioning, BFT-style consensus concepts and embedded SMX smart contracts.
-
-**Why it matters:** demonstrates distributed-systems thinking, state design, cryptographic data structures and architectural modeling.
 
 ---
 
